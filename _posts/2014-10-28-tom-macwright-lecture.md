@@ -14,4 +14,4 @@ Class number two was filled with code and coding; we worked through gh-pages bra
 
 Remember to check your branches because they change what's on your local computer. And save your files often!
 
-
+Check out Tom MacWright's [lecture slides, notes and helpful links](http://www.macwright.org/classes/visualization-prototyping/)!
