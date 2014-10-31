@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git, Github and Jekyll w/ a side of Tom MacWright
+title: Git, Github and Jekyll Blog + Tom MacWright
 ---
 
 {{ page.title }}
