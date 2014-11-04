@@ -42,7 +42,7 @@ Lecture: [The Space between Art and Cartography]({{ site.url }}/vispro14-blog/pd
 	<li>Work session: Blog trouble-shooting | Project refinement</li>
 </ul>
 
-<h2>Homework</h2>
+<p><h1>Homework</h1></p>
 <ul>
 	<li>Narrow your concepts to one concept</li>
 	<li>Sketch out / visualize your concept</li>
@@ -51,14 +51,17 @@ Lecture: [The Space between Art and Cartography]({{ site.url }}/vispro14-blog/pd
 	<li>Blog post the process: include photos and an animated gif</li>
 </ul>
 
-<h2>Blog as Documentation</h2>
-Check out my <a href="http://amyleewalton.com/MFA-Thesis">thesis premise</a>, <a href="http://biobubbles.tumblr.com/">thesis blog</a> and the <a href="http://www.thesis2014.micadesign.org/index.html">2014 Graphic Design Thesis Show</a>.
+<p><h1>Blog as Documentation</h1></p>
+<ul>
+  <li><a href="http://amyleewalton.com/MFA-Thesis">MFA Thesis statement</a></li>
+<li><a href="http://biobubbles.tumblr.com/">MFA Thesis blog</a></li>
+<li><a href="http://www.thesis2014.micadesign.org/index.html">2014 Graphic Design Thesis Show</a></li>
 
-
-<a name="pitch"></a><p><strong>Pitch Student</strong></p>
+<p></p>
+<a name="pitch"></a><strong><h2>Pitch Student</strong></h2>
 What are your three concepts? Why do you want to do it? What skills, tools, techniques do you plan to use to do it? What do you know? What do you need to know? How long do you think each phase will take to complete?
 
-<a name="date"></a><p><strong>Speed Date Student</strong></p>
+<a name="date"></a><h2><strong>Speed Date Student</strong></h2>
 Which concept did you like the most? Why? Do you think this is fesible in 6 weeks? What do you think they need to learn? What do you think they already know?
   
 
