@@ -154,9 +154,10 @@ ul.posts {
 
   /* standard */
 
-  #post h3 {
+  #post h4 {
 	color: rgb(60,60,60);
 	font-weight: 500;
+	font-size: 14px;
 }
 
   #post pre {
