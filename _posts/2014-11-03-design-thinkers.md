@@ -21,12 +21,12 @@ title: Design Thinkers Collective
 	<li>2 min. per student (pitch, date)</li>
 </ul></p>
 
-<p><strong>10am - 10:45am</strong>
-Lecture: <a href="{{ site.url }}/vispro14-blog/pdfs/03_LECTURE_Space-Art-and-Cartography.pdf">The Space between Art and Cartography</a></p>
+<p><strong>10am - 10:45am</strong></p>
+<p>Lecture: <a href="{{ site.url }}/vispro14-blog/pdfs/03_LECTURE_Space-Art-and-Cartography.pdf">The Space between Art and Cartography</a></p>
 
 
-<p><strong>10:45am - 11am</strong>
-15 min break</p>
+<p><strong>10:45am - 11am</strong></p>
+<p>15 min break</p>
 
 <p><strong>11am - 12pm: Mapping with data</strong>
 <ul>
