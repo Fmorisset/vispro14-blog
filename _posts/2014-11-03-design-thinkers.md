@@ -56,6 +56,7 @@ Lecture: [The Space between Art and Cartography]({{ site.url }}/vispro14-blog/pd
   <li><a href="http://amyleewalton.com/MFA-Thesis">MFA Thesis statement</a></li>
 <li><a href="http://biobubbles.tumblr.com/">MFA Thesis blog</a></li>
 <li><a href="http://www.thesis2014.micadesign.org/index.html">2014 Graphic Design Thesis Show</a></li>
+</ul>
 
 <p></p>
 <a name="pitch"></a><strong><h2>Pitch Student</strong></h2>
