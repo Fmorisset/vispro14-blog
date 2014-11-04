@@ -22,7 +22,7 @@ title: Design Thinkers Collective
 </ul></p>
 
 <p><strong>10am - 10:45am</strong>
-Lecture: [The Space between Art and Cartography]({{ site.url }}/vispro14-blog/pdfs/03_LECTURE_Space-Art-and-Cartography.pdf)</p>
+Lecture: <a href="{{ site.url }}/vispro14-blog/pdfs/03_LECTURE_Space-Art-and-Cartography.pdf">The Space between Art and Cartography</a></p>
 
 
 <p><strong>10:45am - 11am</strong>
@@ -30,9 +30,9 @@ Lecture: [The Space between Art and Cartography]({{ site.url }}/vispro14-blog/pd
 
 <p><strong>11am - 12pm: Mapping with data</strong>
 <ul>
-	<li>[Mapbox Studio](https://mapbox.s3.amazonaws.com/mapbox-studio/mapbox-studio-darwin-x64-v0.1.6.zip)</li>
-	<li>[USGS Earthquake CSV Data](http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.csv)</li>
-	<li>Studio: [Source Quickstart](https://www.mapbox.com/mapbox-studio/source-quickstart/)</li>
+	<li><a href="https://mapbox.s3.amazonaws.com/mapbox-studio/mapbox-studio-darwin-x64-v0.1.6.zip">Mapbox Studio</a></li>
+	<li><a href="http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.csv">USGS Earthquake CSV Data</a></li>
+	<li>Studio:<a href="https://www.mapbox.com/mapbox-studio/source-quickstart">Source Quickstart</a></li>
 </ul></p>
  
 <p><strong>12pm - 1pm: Small group review and work session</strong>
