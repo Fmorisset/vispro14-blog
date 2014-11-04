@@ -154,6 +154,11 @@ ul.posts {
 
   /* standard */
 
+  #post h3 {
+	color: rgb(60,60,60);
+	font-weight: 500;
+}
+
   #post pre {
     border: 1px solid #ddd;
     background-color: #eef;
