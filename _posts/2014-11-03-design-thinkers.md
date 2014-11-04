@@ -8,7 +8,7 @@ title: Design Thinkers Collective
 
 <p class="meta">
 
-<p>Today you are an independent creative professional, whatever that means to you	<li>you are responsible for concepts and ideas. You have to pitch them to your team. This week, present your first draft three final project concepts.  You have 2 minutes to pitch, then a 2 min speed date with classmates.</p>
+<p>Today you are an independent creative professional, whatever that means to you... you are responsible for concepts and ideas. You have to pitch them to your team. This week, present your first draft three final project concepts.  You have 2 minute to pitch, then a 2 minute speed date with classmates.</p>
 
 <p><strong>Pitch Student</strong></p>
 What are your three concepts? Why do you want to do it? What skills, tools, techniques do you plan to use to do it? What do you know? What do you need to know? How long do you think each phase will take to complete?
