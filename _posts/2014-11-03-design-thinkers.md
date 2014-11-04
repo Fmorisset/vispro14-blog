@@ -11,7 +11,7 @@ title: Design Thinkers Collective
 
 <p>Today you are an independent creative professional, whatever that means to you... you are responsible for concepts and ideas. You have to pitch them to your team. This week, present your first draft three final project concepts.  You have 2 minute to pitch, then a 2 minute speed date with classmates.</p>
 
-<h2>Schedule of Events</h2>
+<p><i>SCHEDULE</i></p>
 
 <p><strong>9am	- 10am: Presentations + Speed-date</strong>
 <ul>
@@ -42,7 +42,7 @@ Lecture: [The Space between Art and Cartography]({{ site.url }}/vispro14-blog/pd
 	<li>Work session: Blog trouble-shooting | Project refinement</li>
 </ul></p>
 
-<p><h1>Homework</h1>
+<p><i>HOMEWORK</i></p>
 <ul>
 	<li>Narrow your concepts to one concept</li>
 	<li>Sketch out / visualize your concept</li>
@@ -51,7 +51,7 @@ Lecture: [The Space between Art and Cartography]({{ site.url }}/vispro14-blog/pd
 	<li>Blog post the process: include photos and an animated gif</li>
 </ul></p>
 
-<p><h1>Blog as Documentation</h1>
+<p><i>BLOG AS DOCUMENTATION</i></p>
 <ul>
   <li><a href="http://amyleewalton.com/MFA-Thesis">MFA Thesis statement</a></li>
 <li><a href="http://biobubbles.tumblr.com/">MFA Thesis blog</a></li>
