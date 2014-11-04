@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Thinkers: Start-up Day
+title: Design Thinkers Start-up Day
 ---
 
 {{ page.title }}
