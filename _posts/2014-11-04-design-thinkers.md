@@ -47,7 +47,7 @@ title: Design Thinkers Collective
 	<li>Narrow your concepts to one concept</li>
 	<li>Sketch out / visualize your concept</li>
 	<li>Find at least 3 influences to your concept. Explain why.</li>
-	<li>Use <a href="{{ site.url }}/vispro14-blog/pdfs/BackoftheNapkin_SQVID.pdf)">SQVID</a>,<a href="{{ site.url }}/vispro14-blog/pdfs/BackoftheNapkin_6x6.pdf">6x6</a> or <a href="{{ site.url }}/vispro14-blog/pdfs/BackoftheNapkin_codex.pdf">Codex</a> worksheets to explore your concept</li>
+	<li>Use <a href="{{ site.url }}/vispro14-blog/pdfs/BackoftheNapkin_SQVID.pdf">SQVID</a>,<a href="{{ site.url }}/vispro14-blog/pdfs/BackoftheNapkin_6x6.pdf">6x6</a> or <a href="{{ site.url }}/vispro14-blog/pdfs/BackoftheNapkin_codex.pdf">Codex</a> worksheets to explore your concept</li>
 	<li>Blog post the process: include photos and an animated gif</li>
 </ul></p>
 
