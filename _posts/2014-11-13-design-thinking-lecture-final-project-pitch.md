@@ -8,9 +8,9 @@ title: Creative Process Lecture + Format for Final Project Pitch
 
 <p class="meta">
 
-<p>For next week's presentations, please prepare your Final Project Pitch PDFs using [this outlined format]({{ site.url }}/vispro14-blog/pdfs/Final-Project-Pitch-Template.pdf).</p>
+<p>For next week's presentations, use [this outlined format]({{ site.url }}/vispro14-blog/pdfs/Final-Project-Pitch-Template.pdf) to prepare your Final Project Pitch presentations.</p>
 
-<p>This will be a timed presentation. You will have a total of 10 content slides and 20 seconds per slide. You need the following:</p>
+<p>This will be a timed presentation. You will have a total of 10 content slides and 20 seconds per slide. Your PDF and presentation need to contain the following:</p>
 
  - Project title, synopsis and motivation.
  - 3 Precendents for your project
