@@ -8,7 +8,7 @@ title: Creative Process Lecture + Format for Final Project Pitch
 
 <p class="meta">
 
-<p>For next week's presentations, please prepare your Final Project Pitch PDFs using [this outlined format]({{ site.url }}/pdfs/Final-Project-Pitch-Template.pdf).</p>
+<p>For next week's presentations, please prepare your Final Project Pitch PDFs using [this outlined format]({{ site.url }}/vispro14-blog/pdfs/Final-Project-Pitch-Template.pdf).</p>
 
 <p>This will be a timed presentation. You will have a total of 10 content slides and 20 seconds per slide. You need the following:</p>
 
@@ -23,5 +23,5 @@ title: Creative Process Lecture + Format for Final Project Pitch
  - Screenshots of your blog and how your are documenting your process
  - And a list of your next steps
 
-<p>Please refer to the [Creative Process Lecture]({{ site.url }}/pdfs/04_CreativeProcess-Make-Document.pdf) for help.</p>
+<p>Please refer to the [Creative Process Lecture]({{ site.url }}/vispro14-blog/pdfs/04_CreativeProcess-Make-Document.pdf) for help.</p>
 
