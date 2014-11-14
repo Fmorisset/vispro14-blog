@@ -25,3 +25,6 @@ title: Creative Process Lecture + Format for Final Project Pitch
 
 <p>Please refer to the [Creative Process Lecture]({{ site.url }}/vispro14-blog/pdfs/04_CreativeProcess-Make-Document.pdf) for help.</p>
 
+<p>After the presentations, we will cover the process for both laser-cutting a file and 3D printing a file. Watch [Chapters 5-9, 13, and 15 of Rhino 5 Tutorials on Lynda.com](http://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html) and review the dFab's [3D printing with RepRap tutorial](https://docs.google.com/document/d/1PNLQDIsmqsAAF2RVv6AkO4g4ykQUuRjFS9C4x-rB9LM/edit).</p>
+
+<p>After this class we will have no more demos and just focus on using the tools, reviewing your progress and working in class to make your final projects awesome.</p>
