@@ -14,10 +14,9 @@ These are some of my most favorite places on the interwebs! Let them inspire you
 
 ### Brain Food:
  
- 
 * [NY Times Research thru Design Labs](http://blog.nytlabs.com/)
 
-     > Go to these sites for inspiration and technical wizardy, humanity and contemplation.
+     > Admire the R &amp; D department for their technical wizardy, humanity and contemplation.
      
   ![image](https://cloud.githubusercontent.com/assets/4587826/5060603/799ef26a-6d2d-11e4-91fd-173d52167469.png)
   
