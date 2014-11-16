@@ -22,8 +22,12 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   font-size: 100%;
+}
+
+h2, h3, h4, h5, h6 {
+  font-size: 90%;
 }
 
 h1 {
@@ -90,6 +94,13 @@ ul.posts {
   color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
+}
+
+.subtitle {
+  color: #777;
+  font-weight: bold;
+  margin-bottom: 2em;
+  font-size: 90%;
 }
 
   .site .title a {
