@@ -8,14 +8,11 @@ title: A few of my favorite links
 
 <p class="meta">
 
-<p>These are so of my favorite places on the interwebs. For creative inspiration, wanderlust and brain food.</p>
+<p>These are some of my most favorite places on the interwebs! Let them inspire your creative process, curiosity, experimentation, wanderlust and mental stimulation.</p>
 
 <h2>Enjoy!</h2>
 
 <p>
-### Brain Food:
- 
- 
 * [NY Times Research thru Design Labs](http://blog.nytlabs.com/)
 
      > Go to these sites for inspiration and technical wizardy, humanity and contemplation.
