@@ -10,11 +10,7 @@ title: A few of my favorite links
 
 These are some of my most favorite places on the interwebs! Let them inspire your creative process, curiosity, experimentation, wanderlust and mental stimulation.
 
-# Enjoy!
-
-### Brain Food:
- 
-* [NY Times Research thru Design Labs](http://blog.nytlabs.com/)
+# [NY Times Research thru Design Labs](http://blog.nytlabs.com/)
 
      > Admire the New York Times R&amp;D Design Lab for their technical wizardy, humanity and contemplation.
      
