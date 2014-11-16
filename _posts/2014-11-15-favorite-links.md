@@ -30,7 +30,7 @@ These are some of my most favorite places on the interwebs! Let them inspire you
 
      > Lustful product design and architecture.
      
-     ![image](https://cloud.githubusercontent.com/assets/4587826/5060625/987606aa-6d2e-11e4-9ff1-8118ddda8bba.png)
+     ![image](https://cloud.githubusercontent.com/assets/4587826/5060688/8300afce-6d32-11e4-8a4c-461dcb6663a1.png)
      
 * [Subtraction](http://www.subtraction.com/)
 
