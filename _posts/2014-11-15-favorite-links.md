@@ -18,7 +18,7 @@ These are some of my most favorite places on the interwebs! Let them inspire you
 
      > Admire the New York Times R&amp;D Design Lab for their technical wizardy, humanity and contemplation.
      
-  ![image](https://cloud.githubusercontent.com/assets/4587826/5060603/799ef26a-6d2d-11e4-91fd-173d52167469.png)
+  ![image](https://cloud.githubusercontent.com/assets/4587826/5060690/c3b332ee-6d32-11e4-8f19-0023f1b0a801.png)
   
 * [Wired Magazine](http://www.wired.com/)
 
